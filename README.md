@@ -8,40 +8,40 @@ Another dark vscode theme...
 
 ### Python
 
-![python](img/python.png)
+![python](img/screenshot-python.png)
 
 ### YAML
 
-![yaml](img/yaml.png)
+![yaml](img/screenshot-yaml.png)
 
 ### json
 
-![json](img/json.png)
+![json](img/screenshot-json.png)
 
 ### PowerShell
 
-![pwsh](img/pwsh.png)
+![pwsh](img/screenshot-pwsh.png)
 
 ### JavaScript
 
-![js](img/js.png)
+![js](img/screenshot-js.png)
 
 ### PHP
 
-![php](img/php.png)
+![php](img/screenshot-php.png)
 
 ### Button
 
-![button](img/button.png)
+![button](img/screenshot-button.png)
 
 ### Context Menu
 
-![context](img/context.png)
+![context](img/screenshot-context.png)
 
 ### Menus
 
-![menu](img/menu.png)
+![menu](img/screenshot-menu.png)
 
 ### Dotfiles
 
-![dotfiles](img/dotfiles.png)
+![dotfiles](img/screenshot-dotfiles.png)
