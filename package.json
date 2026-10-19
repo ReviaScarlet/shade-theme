@@ -1,0 +1,30 @@
+{
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Shade",
+                "path": "./themes/shade.json",
+                "uiTheme": "vs-dark"
+            }
+        ]
+    },
+    "description": "this is a dark theme...",
+    "version": "0.0.2",
+    "engines": {
+        "vscode": "^1.19.0"
+    },
+    "icon": "./img/icon.png",
+    "license": "MIT",
+    "name": "shade",
+    "publisher": "Leivysallia",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ReviaScarlet/shade-theme.git"
+    },
+    "scripts": {
+        "build": "vsce package"
+    }
+}

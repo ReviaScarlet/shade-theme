@@ -1,0 +1,5 @@
+**/*.vsix
+.history
+.vscode
+.vsix
+.icons
