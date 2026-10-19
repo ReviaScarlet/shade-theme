@@ -1,8 +1,8 @@
-# Ichor
+# Shade
 
-## A Visual Studio Code theme by Leivysallia
+## A Visual Studio Code theme by ReviaScarlet [Leivysallia]
 
-A dark vscode theme...
+Another dark vscode theme...
 
 [Repository](https://github.com/ReviaScarlet/shade-theme.git)
 
