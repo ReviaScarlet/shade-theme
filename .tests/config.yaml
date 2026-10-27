@@ -8,9 +8,11 @@ user:
 
 # A List (Array) of items
 languages:
-- Python
-- JavaScript
-- YAML
+  - Python
+  - JavaScript
+  - YAML
+  - PowerShell
+  - PHP
 
 # A Nested Structure (Dictionary within a Dictionary)
 address:
@@ -20,12 +22,12 @@ address:
 
 # A List of Dictionaries (Objects)
 projects:
-- name: Project Alpha
-  status: completed
-  team_size: 5
-- name: Project Beta
-  status: in_progress
-  team_size: 8
+  - name: Project Alpha
+    status: completed
+    team_size: 5
+  - name: Project Beta
+    status: in_progress
+    team_size: 8
 
 # Inline Flow Style (less common for complex data)
-tags: [ config, data, example ]
+tags: [config, data, example]
